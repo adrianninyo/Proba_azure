@@ -1,0 +1,27 @@
+#t {
+	background-color: grey;
+	width: 600px;
+	height: 600px;
+	border: 20px;
+	padding: 150px;
+	margin: 50px;
+}
+.Tab {
+	float: left;
+}
+.b {
+	height: 75px;
+	width: 75px;
+	background-color: white;
+}
+.b:hover {
+	background-color: fuchsia;
+}
+.n {
+	height: 75px;
+	width: 75px;
+	background-color: black;
+}
+.n:hover {
+	background-color: lime;
+}
