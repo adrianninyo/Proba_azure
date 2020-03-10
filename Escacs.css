@@ -15,6 +15,7 @@
 	background-color: white;
 }
 .b:hover {
+	background-color: fushia;
 	background-image: https://blobito.blob.core.windows.net/pito/Albet el jenio.png;
 }
 .n {
@@ -23,5 +24,6 @@
 	background-color: black;
 }
 .n:hover {
+	background-color: green;
 	background-image: https://blobito.blob.core.windows.net/pitodoble/descarga.jpg;
 }
