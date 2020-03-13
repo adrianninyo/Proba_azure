@@ -15,7 +15,7 @@
 	background-color: white;
 }
 .b:hover {
-	background-image: url(https://blobito.blob.core.windows.net/pito/Albet el jenio.png);
+	background-image: url("https://blobito.blob.core.windows.net/pito/Albet el jenio.png");
 }
 .n {
 	height: 75px;
@@ -23,5 +23,5 @@
 	background-color: black;
 }
 .n:hover {
-	background-image: url(https://blobito.blob.core.windows.net/pitodoble/descarga.jpg);
+	background-image: url("https://blobito.blob.core.windows.net/pitodoble/descarga.jpg");
 }
