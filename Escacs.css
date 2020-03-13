@@ -24,5 +24,6 @@
 }
 .n:hover {
 	background-image: url("https://blobito.blob.core.windows.net/pitodoble/descarga.jpg");
-	width: 100%;
+	max-width: 100%;
+  	height: auto;
 }
